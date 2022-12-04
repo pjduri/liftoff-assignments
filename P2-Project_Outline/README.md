@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+The project our group selected will be a planning/decision making widget for creating meals and snacks.  Users will be able to choose meals vs snacks, home vs out, and cooking vs leftovers.  Based on their selections, they will then choose from a list of appropriate options (Favorite items by delivery/takeout establishments, list of leftovers, or a list of recipes based on available ingredients).  (Pending collective decision re: database connection)  Users will be able to store, retrieve, edit and delete these options.  
 ### Features
 Include Features here
 ### Technologies
