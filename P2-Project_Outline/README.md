@@ -26,8 +26,7 @@ The project our group selected will be a planning/decision making widget for cre
 - Angular 12
 - Bootstrap
 - Database:
-  - Either Link Angular project directly to database 
-            or
+  - Either Link Angular project directly to database or
   - Build project to use Angular at front-end and Java/Hibernate at back-end and use json to connect them
 ### What I'll Have to Learn
 Using Bootstrap with Angular for default styling, connecting Angular project to database.
