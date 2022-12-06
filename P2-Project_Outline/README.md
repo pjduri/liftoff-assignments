@@ -19,7 +19,7 @@ Ultimately, the goal of this project is to create an interactive UI designed to 
 - Randomizer: Randomizes selections whenever the user doesn’t have the energy/want to decide on something to eat
 
 ### Technologies
-Front end: JavaScript, Angular, Bootstrap
+Front end: JavaScript, Angular, Bootstrap  
 Back end: MySQL, Java, Hibernate, SpringBoot
 
 ### What We'll Have to Learn
