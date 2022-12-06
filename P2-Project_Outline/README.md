@@ -12,26 +12,22 @@ FeedMe Later directs users to a page where they access meal generators. The meal
 
 Ultimately, the goal of this project is to create an interactive UI designed to simplify, customize, and/or downright remove the decision-making process when the thought, "I should eat something" first appears in the user's mind.
 ### Features
-- Login
+- User login/logout: Users will be able to create accounts and log in to the application and logout
+- Search: Users will be able to search for recipes based on the ingredients they’ve inputted
+- Delete a Saved page: Users will be able to delete their FeedMe’s when logged in
+- Call to an API for a recipe page: Uses an API to display recipes and pull them up based on what you’re inputted using the search feature
+- Randomizer: Randomizes selections whenever the user doesn’t have the energy/want to decide on something to eat
 
-- Select Decision-Making Level
-  - can abandon selected options and build a random meal with or without specifying budget and effort level from any page once logged in
-
-- Select Meal Type
-  - based on hunger level, effort level, willingness to spend money
-
-- Build meals based on selections
-
-- CRUD
-  - can create, read, update and delete items, categories, tags, etc
 ### Technologies
-- JavaScript/Typescript
-- Angular 12
-- Bootstrap
-- Database:
-  - Either Link Angular project directly to database or
-  - Build project to use Angular at front-end and Java/Hibernate at back-end and use json to connect them
-### What I'll Have to Learn
-Using Bootstrap with Angular for default styling, connecting Angular project to database.
+Front end: JavaScript, Angular, Bootstrap
+Back end: MySQL, Java, Hibernate, SpringBoot
+
+### What We'll Have to Learn
+- Bootstrap - UI frameworks and libraries
+- How to work on a team
+- How to connect a Javascript/Angular front-end to a Java/SpringBoot backend
+- Using trello boards to communicate and split up the work
+- Learning the work-flow that will be used in real-job scenarios
+
 ### Project Tracker
 https://trello.com/b/nQD5Jga2/work
