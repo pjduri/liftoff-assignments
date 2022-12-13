@@ -30,4 +30,5 @@ Back end: MySQL, Java, Hibernate, SpringBoot
 - Learning the work-flow that will be used in real-job scenarios
 
 ### Project Tracker
-https://trello.com/b/nQD5Jga2/work
+https://trello.com/b/nQD5Jga2/work  
+https://trello.com/b/kMq5sRqL/mvp-features-stories
