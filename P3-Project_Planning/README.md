@@ -9,7 +9,7 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 - Home Page  
-https://github.com/pjduri/liftoff-assignments/blob/main/P3-Project_Planning/Wireframes/FeedMe_wf_Later_after_input.PNG
+https://github.com/pjduri/liftoff-assignments/blob/main/P3-Project_Planning/Wireframes/FeedMe_wf_home_page.PNG
 
 - FeedMe Now without output  
 https://github.com/pjduri/liftoff-assignments/blob/main/P3-Project_Planning/Wireframes/FeedMe_wf_Now_before_button.PNG
